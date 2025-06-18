@@ -1,5 +1,5 @@
 ---
-title: "Professional Summary!"
+title: "Professional Summary"
 date: 2025-06-18T15:34:30-04:00
 categories:
   - blog
