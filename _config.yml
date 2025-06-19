@@ -61,6 +61,7 @@ author:
   name  : " "
   avatar: "/assets/images/photo.jpg"
   bio   : "Network Security"
+  
   bio   : "Network Administration"
   links: 
     - label: "GitHub"
