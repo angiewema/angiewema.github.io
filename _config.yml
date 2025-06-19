@@ -60,7 +60,7 @@ plugins:
 author:
   name  : "Angela Wema"
   avatar: "/assets/images/photo.jpg"
-  bio   : "I am an IT Professional."
+  bio   : "Network Security | Network & System Administration | IT Support | Member os Strathmore Hockey"
   links: 
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -73,11 +73,11 @@ author:
 footer:
   - label: "GitHub"
     icon: "fab fa-fw fa-github"
-    url: "https://github.com/"
+    url: "https:/github.com/"
     
   - label: "LinkedIn"
     icon: "fab fa-fw fa-linkedin"
-    url: "https://linkedin.com/"
+    url: "https:/linkedin.com/"
       
 defaults:
   # _posts
